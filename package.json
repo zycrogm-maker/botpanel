@@ -1,0 +1,31 @@
+{
+  "name": "minecraft-afk-bot-panel",
+  "version": "1.0.0",
+  "description": "Professional Discord Minecraft AFK Bot Hosting Panel",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "minecraft",
+    "discord",
+    "bot",
+    "hosting",
+    "afk",
+    "mineflayer",
+    "discord.js"
+  ],
+  "author": "zycrogm-maker",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "mineflayer": "^4.12.1",
+    "prismarine-chat": "^1.11.3"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
